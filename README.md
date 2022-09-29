@@ -26,7 +26,7 @@ cd NetScan
 python3 NetScan.py
 ```
 
-![Preview](preview.png){: w="600" h="600"}
+![Preview](preview.png)
 
 > If anything should be modified in the script please let me know.
 
